@@ -22,7 +22,7 @@ You can connect me here 👇
 <a href="https://twitter.com/Qasim21540480" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m_mohsin_khalid" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/qasim-ali-shah-898063193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohsinkhalid" height="30" width="40" /></a>
 <a href="https://fb.com/qasim.ali.171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohsin.khalid11" height="30" width="40" /></a>
-<a href="bit.ly/2UYGXtM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uctnzr1ey0w0k7z05x8eqqfq" height="30" width="40" /></a>
+<a href="bit.ly/2UYGXtM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" href="https://www.youtube.com/channel/UCQHxPqQN_kAwAa__QyPa3iA" alt="Chitral Explore" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
