@@ -18,9 +18,9 @@ You can connect me here 👇
 
 <p align="left">
 
-  <a href="mailto:mmohsinkhalid@outlook.com" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/1826/PNG/128/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png" alt="Qasim Aly" height="30" width="30" /></a>
-<a href="https://twitter.com/m_mohsin_khalid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m_mohsin_khalid" height="30" width="40" /></a>
-<a href="https://linkedin.com/inhttps://www.linkedin.com/in/qasim-ali-shah-898063193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohsinkhalid" height="30" width="40" /></a>
+  <a href="mailto:qaskiyar99@gmail.com" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/1826/PNG/128/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png" alt="Qasim Aly" height="30" width="30" /></a>
+<a href="https://twitter.com/Qasim21540480" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m_mohsin_khalid" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/qasim-ali-shah-898063193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohsinkhalid" height="30" width="40" /></a>
 <a href="https://fb.com/qasim.ali.171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohsin.khalid11" height="30" width="40" /></a>
 <a href="bit.ly/2UYGXtM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uctnzr1ey0w0k7z05x8eqqfq" height="30" width="40" /></a>
 </p>
