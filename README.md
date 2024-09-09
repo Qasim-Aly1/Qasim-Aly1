@@ -1,7 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="40px">, I'm Qasim Ali Shah</h1>
-<h3 align="center"><a href="https://git.io/typing-svg"><img
-											src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=I'm+a+React+JS+%2F+Next+JS+Developer;I'm+a+NodeJS+Developer;I'm+a+WordPress+Developer;I'm+a+Full-stack+Developer;I'm+an+Architect"
-											alt="Typing SVG" /></a></h3>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=I'm+a+React+JS+%2F+Next+JS+Developer;I'm+a+NodeJS+Developer;I'm+a+WordPress+Developer;I'm+a+Full-stack+Developer;I'm+an+Architect" alt="Typing SVG" /></a></div>
 
 💬 Modern full stack cloud Developer and WEB3 sepecialist with a passion of cloud-based web and mobile apps, blockchain, and digital tokens.  I've completed several world-class projects with a 100% success record.
 
