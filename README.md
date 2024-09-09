@@ -1,15 +1,14 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="40px">, I'm Qasim Ali Shah</h1>
-<h3 align="center">(Modern Full-Stack Cloud Developer and Architect)</h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img
+											src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=I'm+a+React+JS+%2F+Next+JS+Developer;I'm+a+NodeJS+Developer;I'm+a+WordPress+Developer;I'm+a+Full-stack+Developer;I'm+an+Architect"
+											alt="Typing SVG" /></a></h3>
 
 💬 Modern full stack cloud Developer and WEB3 sepecialist with a passion of cloud-based web and mobile apps, blockchain, and digital tokens.  I've completed several world-class projects with a 100% success record.
 
-Have more than 8 years of experience in the industry. As a developer, I've worked with multiple startups and businesses like Blinkin, Accelchain, Autonomiq.io, TerraceAg, Gloow.io, Kubernetes Manager, Turing eye, Interspan, Esox.ai, Presentation Next, and others all around the world. They're all driven by a desire to take their products to the next level.
-
-I graduated with a bachelor's degree in Computer Science and have had the chance to become a Certified Kubernetes Application Developer (CKAD) and a Certified React Nanodegree Developer. I volunteer to teach JavaScript on weekends. I host online programming sessions on YouTube and other platforms in this pandemic.
+Have more than 2 years of experience in the industry. As a developer, With hands-on experience in ReactJS/NextJS, I specialize in building user-friendly eCommerce platforms and websites that drive engagement and growth. My journey in the tech world has honed my expertise in JavaScript, Python, and WordPress, allowing me to provide end-to-end web development solutions.
 
 I create lightweight, powerful cloud native container-based apps that run on any cloud/PaaS platform (AWS, Google Cloud, Azure, Red Hat, etc.). Everything will be automated in my workflows including CI/CD. I can work alone or deploy a team of skilled developers, UI/UX engineers, and technical writers.
 
-To summarize, I've been working on AWS Serverless SaaS using AWS CDK, GitHub Actions, React, Redux, Storybook, Gatsby, AWS Cloud Front, Contentful, AWS Lambda, Docker, API Gateway, AppSync, MongoDB, DynamoDB, Aurora Serverless Relational DB, SQL, Neptune Graph DB, Gremlin Graph Traversal Language, AWS EventBridge, etc.
 
 I'm ready for the next technological wave, and I've created Cloud Native serverless architecture apps that work with any client (including React, React Native, Angular, VueJS, etc) utilizing the AWS stack. Your app will be scalable and able to handle a huge number of users this way. Depending on the requirements of your project, I can provide these cutting-edge technology to ensure that it is a tremendous success and delivered on time.
 
