@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="40px">, I'm Qasim Ali Shah</h1>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D4F21B&width=435&lines=I'm+a+Full-stack+Developer;I'm+a+ReactJS%2FNextJS+Developer;I'm+a+NodeJS+Developer;I'm+an+Architect" alt="Typing SVG" /></a></h3>
+<h3 align="center"></a></h3>
 
-💬 Modern <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D4F21B&center=true&vCenter=true&width=190&height=25&lines=Full-stack+cloud;+ReactJS%2FNextJS;NodeJS;React+Native" alt="Typing SVG" /></a> Developer and WEB3 sepecialist with a passion of cloud-based web and mobile apps, blockchain, and digital tokens.  I've completed several world-class projects with a 100% success record.
+💬 Modern <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=D4F21B&width=190&height=25&lines=Full-stack+cloud;+ReactJS%2FNextJS;NodeJS;React+Native" alt="Typing SVG" /></a> Developer and WEB3 sepecialist with a passion of cloud-based web and mobile apps, blockchain, and digital tokens.  I've completed several world-class projects with a 100% success record.
 
 Have more than 2 years of experience in the industry. As a developer, With hands-on experience in ReactJS/NextJS, I specialize in building user-friendly eCommerce platforms and websites that drive engagement and growth. My journey in the tech world has honed my expertise in JavaScript, Python, and WordPress, allowing me to provide end-to-end web development solutions.
 
